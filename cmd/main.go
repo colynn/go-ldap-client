@@ -2,8 +2,9 @@ package main
 
 import (
 	"flag"
-	"ldap"
 	"log"
+
+	ldap "github.com/colynn/go-ldap-client"
 )
 
 var base, bindDN, bindPassword, groupFilter, host, password, serverName, userFilter, username string
