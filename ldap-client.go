@@ -1,6 +1,6 @@
 // Package ldap provides a simple ldap client to authenticate,
 // retrieve basic information and groups for a user.
-package ldap
+package go-ldap-client
 
 import (
 	"crypto/tls"

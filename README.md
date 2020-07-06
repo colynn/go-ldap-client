@@ -12,7 +12,7 @@ package main
 import (
 	"log"
 
-	"github.com/colynn/go-ldap-client"
+	ldap "github.com/colynn/go-ldap-client"
 )
 
 func main() {
