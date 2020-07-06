@@ -1,4 +1,4 @@
-module github.com/colynn/go-ldap-client
+module github.com/colynn/ldap
 
 go 1.13
 

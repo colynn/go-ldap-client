@@ -1,4 +1,4 @@
-package go-ldap-client
+package ldap
 
 import (
 	"log"
