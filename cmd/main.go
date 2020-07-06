@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"go-ldap-client"
+	"ldap"
 	"log"
 )
 
