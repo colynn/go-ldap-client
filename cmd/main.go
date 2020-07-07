@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	ldap "github.com/colynn/go-ldap-client"
+	ldap "github.com/colynn/go-ldap-client/v3"
 )
 
 var base, bindDN, bindPassword, groupFilter, host, password, serverName, userFilter, username string

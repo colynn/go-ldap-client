@@ -4,7 +4,7 @@ Simple ldap client to authenticate, retrieve basic information and groups for a 
 
 ## Usage
 
-The only external dependency is [gopkg.in/ldap.v2](http://gopkg.in/ldap.v2).
+The only external dependency is [gopkg.in/ldap.v3](https://pkg.go.dev/github.com/go-ldap/ldap/v3).
 
 ```
 package main

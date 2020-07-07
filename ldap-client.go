@@ -7,7 +7,7 @@ import (
 	"errors"
 	"fmt"
 
-	"gopkg.in/ldap.v2"
+	"github.com/go-ldap/ldap/v3"
 )
 
 // Client ..
