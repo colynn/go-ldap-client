@@ -53,6 +53,3 @@ If you use SSL, you will need to pass the server name for certificate verificati
 ## Why?
 Because [go-ldap-client](https://github.com/jtblin/go-ldap-client) been a long time didn't maintenance from 2017 to now.
 So re-create it, make it better for everyone to use and maintain.
-
-## Later
-we plan to create `go-ldap-client` base on [gopkg.in/ldap.v3](http://gopkg.in/ldap.v3).
