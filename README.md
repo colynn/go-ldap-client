@@ -1,5 +1,8 @@
 # go-ldap-client
 
+[![codecov](https://codecov.io/gh/colynn/go-ldap-client/branch/master/graph/badge.svg)](https://codecov.io/gh/colynn/go-ldap-client)
+[![GoDoc](https://godoc.org/github.com/colynn/go-ldap-client?status.svg)](https://pkg.go.dev/github.com/colynn/go-ldap-client?tab=doc) 
+
 Simple ldap client to authenticate, retrieve basic information and groups for a user.
 
 ## Usage
