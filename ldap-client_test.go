@@ -42,7 +42,7 @@ func TestFindUser(t *testing.T) {
 		BindPassword:       "bindpassword",
 		UserFilter:         "(uid=%s)",
 		GroupFilter:        "(memberUid=%s)",
-		Attributes:         []string{"givenName", "sn", "mail", "uid"},
+		Attributes:         []string{"givenName", "sn", "mail", "uid", "sAMAccountName"},
 		SkipTLS:            true,
 		ServerName:         "ldap.example.com",
 		InsecureSkipVerify: true,
